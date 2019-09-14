@@ -6,6 +6,7 @@ This is an Individual Project Assignment for the AFDEmp Coding Bootcamp by Kosto
 This project is a console application in c#. The program implements basic structure and functionality for a private school in a console environment. More precisely, the program can
 
 ********************************************************************
+```
 1. import sample data 
 2. add new student    
 3. add new trainer    
@@ -21,4 +22,5 @@ This project is a console application in c#. The program implements basic struct
 13. list assignments per student 
 14. list students in more than one course
 15. check submission dates 
+```
 ********************************************************************
